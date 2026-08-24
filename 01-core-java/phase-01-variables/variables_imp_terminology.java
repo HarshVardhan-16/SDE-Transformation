@@ -7,6 +7,5 @@ class variables_imp_terminolgy{
 
         int age = 21;
         final int MAX_AGE = 10; //this variable can't be reassigned
-        
     }
 }
